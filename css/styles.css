@@ -1,0 +1,47 @@
+nav{
+    background-color: blueviolet;
+    color: floralwhite;
+}
+
+.classroom1{
+    height: 100%;
+    width: 100%;
+}
+
+h1{
+    padding-top: 25%;
+    color: blueviolet;
+    
+}
+
+h1:hover{
+    text-shadow: 3px 1px 1px #2b015c;   
+}
+
+.program{
+    font-size: 2rem;
+    padding-bottom: 15px;
+}
+
+.program li{
+    padding-bottom: 10px;
+}
+
+.callus{
+    padding-top: 20px;
+}
+
+.callus li{
+    padding-bottom: 10px;
+}
+
+.nav-programs:hover{
+    background-color: rgb(214, 174, 252);
+}
+
+.registerForm{
+    padding: 10px;
+    border-radius: 25px;
+    border: 1px solid rgb(194, 189, 189);
+    margin-bottom: 10px;
+}
