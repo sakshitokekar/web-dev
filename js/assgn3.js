@@ -12,6 +12,7 @@
         }
         else{
             setTimeout();
+
         }        
     }
     function startshow(){
